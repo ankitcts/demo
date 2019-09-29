@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"result": [
+{
+"name": "MEMORIAL SLOAN-KETTERING CANCER CENTER",
+"total": 1,
+"sold": 1,
+"unSold": 0
+},
+{
+"name": "DELTA AIR LINES, INC.",
+"total": 3,
+"sold": 3,
+"unSold": 0
+},
+{
+"name": "KEURIG DR PEPPER",
+"total": 10,
+"sold": 10,
+"unSold": 0
+},
+{
+"name": "LIMITED BRANDS INC",
+"total": 1,
+"sold": 1,
+"unSold": 0
+},
+{
+"name": "PARTY CITY HOLDCO INC.",
+"total": 1,
+"sold": 1,
+"unSold": 0
+},
+{
+"name": "DIGITASLBI US - US8501",
+"total": 13,
+"sold": 13,
+"unSold": 12
+}
+],
+"code": {
+"statusCode": 201,
+"message": "Open Needs Account Wise"
+}
 }
